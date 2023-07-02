@@ -1,3 +1,3 @@
 
 
-### [Live Site](https://metaverse-sage-psi.vercel.app/)
+### [Live Site](https://metaverse-site-git-main-davidjnunezf.vercel.app/)
